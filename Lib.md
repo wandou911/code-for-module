@@ -14,7 +14,7 @@ iOS组件化开发
 
 ## 网络插件
 [JSON 转Model](https://github.com/jsonmodel/jsonmodel)
-(AFNetworking[https://github.com/AFNetworking/AFNetworking
+[AFNetworking](https://github.com/AFNetworking/AFNetworking)
 ## 数据访问
 
 ## 其他
